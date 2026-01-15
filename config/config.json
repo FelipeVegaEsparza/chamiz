@@ -1,10 +1,10 @@
 {
-  "template": "blue",
-  "project_name": "Radio Fusion Austral",
-  "clientId": "cmf4du07u000313x255b7jy2t",
+  "template": "minimalista",
+  "project_name": "Radio la Chamiz Austral",
+  "clientId": "cmkflojlb0003lymk8rmbojkx",
   "ipstream_base_url": "https://dashboard.ipstream.cl/api/public",
-  "sonicpanel_stream_url": "https://stream.ipstream.cl/8018/stream",
-  "sonicpanel_api_url": "https://stream.ipstream.cl/cp/get_info.php?p=8018",
+  "sonicpanel_stream_url": "https://stream.ipstream.cl/8056/stream",
+  "sonicpanel_api_url": "https://stream.ipstream.cl/cp/get_info.php?p=8056",
   "cache_version": "v1",
   "offline_page": "/offline.html",
   "pagination": {
