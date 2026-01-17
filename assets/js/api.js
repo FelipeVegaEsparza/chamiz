@@ -98,7 +98,7 @@ export async function getSonicPanelInfo() {
   // Extraer el puerto del stream URL
   const streamUrl = configData.sonicpanel_stream_url;
   const portMatch = streamUrl.match(/:(\d+)/);
-  const port = portMatch ? portMatch[1] : '8018';
+  const port = portMatch ? portMatch[1] : '8056';
   
   // Construir la URL de la API de SonicPanel
   const apiUrl = `https://stream.ipstream.cl/cp/get_info.php?p=${port}`;
